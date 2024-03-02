@@ -1,0 +1,19 @@
+{
+  "name": "nodejs-extended",
+  "version": "0.0.0",
+  "description": "Get more functions for helping making your code simpler and easier to read!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arnavthorat78/nodejs-extended.git"
+  },
+  "author": "Arnav Thorat",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/arnavthorat78/nodejs-extended/issues"
+  },
+  "homepage": "https://github.com/arnavthorat78/nodejs-extended#readme"
+}
